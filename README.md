@@ -10,6 +10,12 @@
 - ✨ Always learning and exploring new tech.
 
 ---
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shouravkumar21&theme=darkhub&no-frame=true&column=6">
+</p>
+
+---
 
 
 ### 💻 Tech Stack
