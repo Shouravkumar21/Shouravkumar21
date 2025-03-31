@@ -19,10 +19,7 @@
 
 ---
 
-### 🎮 Fun Section
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
 
 ### 💻 Tech Stack
 <div align="left">
@@ -56,6 +53,3 @@
 </div>
 
 ---
-
-### 🐍 Snake Game Animation
-<img src="https://raw.githubusercontent.com/shouravkumar21/shouravkumar21/output/snake.svg" alt="Snake animation" />
