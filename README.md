@@ -9,9 +9,10 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Shourav!</h1>
-<h3 align="center">A Full Stack Developer passionate about building scalable web applications.</h3>
-
+<p align="center">
+  🚀 <b>Software Developer | Freelancer | Tech Enthusiast</b> <br>
+  💻 <b>9+ years of experience in Web & App Development</b> <br>
+</p>
 
 
 
@@ -35,7 +36,7 @@
 
 
 ### 💻 Tech Stack
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
