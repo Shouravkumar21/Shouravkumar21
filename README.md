@@ -22,7 +22,7 @@
 
 ### 📚 About Me
 - 🔧 I specialize in **Full Stack Development**.
-- 🌟 Technologies: **HTML, CSS, JavaScript, React, Next.js, React Native, Tailwind, Python, TypeScript, Vue, AWS, MongoDB, Node.js, SQL, MySQL, PHP, Laravel, Redux, Docker**.
+🌟 Technologies: HTML, CSS, JavaScript, React, Next.js, React Native, Tailwind, Python, TypeScript, Vue, AWS, MongoDB, Node.js, SQL, MySQL, PHP, Laravel, Redux, Docker, Blockchain Technology, Web3.js, Solidity, Rust, Go.
 - 💪 Currently building amazing things with **React & Next.js**.
 - ✨ Always learning and exploring new tech.
 
