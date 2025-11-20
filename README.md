@@ -11,7 +11,6 @@
 
 <p align="center">
   🚀 <b>Software Developer | Freelancer | Tech Enthusiast</b> <br>
-  💻 <b>3+ years of experience in Web & App Development</b> <br>
 </p>
 
 
